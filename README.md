@@ -12,4 +12,4 @@ __Можно сделать вывод, что изначально слово "
 
 ![](https://github.com/BeluginaEkaterina/HW6/blob/master/5.jpg)
 
-__Оба глагола могут употребляться со словами case, posotion, question,
+__Оба глагола могут употребляться со словами option, possibility, future, prospect и reform. Только consider может употребляться с дополонением application, и только contemplate может употребляться с дополнением ruin.__
